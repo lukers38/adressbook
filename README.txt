@@ -7,6 +7,7 @@ Requirements:
 Please make sure the extension 'pdo_sqlite' in php.ini is uncommented/activated.
 
 Usage:
+Register an account and Login.
 To add a new contact/adress use the form on the top of the page.
 The contacts are read from the DB and displayed in the table below.
 To edit an adress click the 'edit' button.
